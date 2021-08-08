@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price component solution
 
-This is a solution to the [Single price component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-V_W91T3Q5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Single price component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-component-71-patternsass-63HniM0Hd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Screenshot
 
@@ -8,7 +8,7 @@ This is a solution to the [Single price component](https://www.frontendmentor.io
 
 ## Links
 
-- [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-and-position-A_OgSM9LR)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-component-71-patternsass-63HniM0Hd)
 - [Github Live](https://said-alrove.github.io/single-price-component-sass/)
 
 ## Author
