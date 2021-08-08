@@ -2,7 +2,7 @@
 //* CARD-SUBSCRIPTION
 //*********************************
 .subscription {
-    background-color: map-get($clr, 'dk', 'cyan-100');
+    background-color: map-get($clr, 'dk', 'cyan-200');
     color: map-get($clr, 'white');
 
     &__paragraph {

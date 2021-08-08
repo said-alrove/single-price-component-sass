@@ -92,7 +92,7 @@ p {
 }
 
 .subscription {
-  background-color: #4bbebc;
+  background-color: #2ab2af;
   color: white;
 }
 .subscription__paragraph:first-of-type {
@@ -123,7 +123,7 @@ p {
 }
 
 .why {
-  background-color: #2ab2af;
+  background-color: #4bbebc;
   color: white;
 }
 .why__paragraph-element {
