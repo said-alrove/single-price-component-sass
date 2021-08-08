@@ -120,6 +120,10 @@ p {
   border-radius: 0.5rem;
   background-color: #c0df34;
   color: white;
+  transition: all 200ms ease-in-out;
+}
+.subscription__button:hover {
+  background-color: #b5d621;
 }
 
 .why {
@@ -158,7 +162,7 @@ p {
   transition: all 200ms ease-in-out;
 }
 .attribution a:hover {
-  color: #392edc;
+  color: #433e97;
 }
 
 /*# sourceMappingURL=app.css.map */
