@@ -11,7 +11,7 @@ This is a solution to the [Single price component](https://www.frontendmentor.io
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-component-71-patternsass-63HniM0Hd)
-- [Netlify](https://spcs-428342.netlify.app/)
+- [Netlify](https://spcs-ebd2c0.netlify.app/)
 
 ## Author
 
